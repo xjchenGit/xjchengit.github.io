@@ -137,7 +137,8 @@ p {
     text-decoration: none;
     word-break: keep-all;
     word-wrap: break-word;
-    color: #0066cc;
+/*     color: #0066cc; */
+    color: #004b79;
 }
 
 #intro p a:hover {
@@ -153,7 +154,8 @@ p {
 
 #intro p li a:hover {
     text-decoration: none;
-    color: #F90;
+/*     color: #F90; */
+    color: #004b79;
     text-decoration: underline;
 }
 
