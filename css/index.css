@@ -10,7 +10,8 @@
 }
 
 #header_navbar nav a {
-    color: #0066cc;
+/*     color: #0066cc; */
+    color: #004b79;
     text-align: center;
 }
 
@@ -19,7 +20,8 @@
     content: "";
     width: 0;
     height: 2px;
-    background: #0066cc;
+/*     background: #0066cc; */
+    background: #004b79;
     position: absolute;
     top: 70%;
     left: 50%;
@@ -28,19 +30,22 @@
 
 #header_navbar nav a:hover {
     background-color: #CCCCCC;
-    color: #0066cc;
+/*     color: #0066cc; */
+    color: #004b79;
 }
 
 #header_navbar nav a:hover:before {
     left: 1em;
     width: calc(50% - 1em);
-    color: #0066cc;
+/*     color: #0066cc; */
+    color: #004b79;
 }
 
 #header_navbar nav a:hover:after {
     left: 50%;
     width: calc(50% - 1em);
-    color: #0066cc;
+/*     color: #0066cc; */
+    color: #004b79;
 }
 
 #button_navbar .icon-bar {
