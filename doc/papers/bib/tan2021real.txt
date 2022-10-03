@@ -1,7 +1,0 @@
-@inproceedings{tan2021real,
-  title={Real-Time Speech Enhancement for Mobile Communication Based on Dual-Channel Complex Spectral Mapping},
-  author={Tan, Ke and Zhang, Xueliang and Wang, DeLiang},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={6134--6138},
-  year={2021}
-}

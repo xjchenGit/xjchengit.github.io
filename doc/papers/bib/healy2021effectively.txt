@@ -1,9 +1,0 @@
-@article{healy2021effectively,
-  title={An Effectively Causal Deep Learning Algorithm to Increase Intelligibility in Untrained Noises for Hearing-Impaired Listeners},
-  author={Healy, Eric W. and Tan, Ke and Johnson, Eric M. and Wang, DeLiang},
-  journal={The Journal of the Acoustical Society of America (JASA)},
-  volume={149},
-  pages={3943--3953},
-  year={2021},
-  publisher={Acoustical Society of America}
-}
