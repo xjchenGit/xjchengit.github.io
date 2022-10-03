@@ -352,25 +352,29 @@ p {
 
 #working h2 a {
     font-weight: 600;
-    color: #000;
+/*     color: #000; */
+    color: #004b79;
     text-decoration: none;
 }
 
 #working h2 a:hover {
     font-weight: 600;
-    color: #000;
+/*     color: #000; */
+    color: #004b79;
     text-decoration: none;
 }
 
 #working p a{
     font-weight: 600;
     text-decoration: none;
-    color: #0066cc;
+/*     color: #0066cc; */
+    color: #004b79;
 }
 
 #working p a:hover {
     font-weight: 600;
-    color: #F90;
+/*     color: #F90; */
+    color: #004b79;
     text-decoration: underline;
 }
 
