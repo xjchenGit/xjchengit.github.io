@@ -352,15 +352,15 @@ p {
 
 #working h2 a {
     font-weight: 600;
-/*     color: #000; */
-    color: #004b79;
+    color: #000;
+/*     color: #004b79; */
     text-decoration: none;
 }
 
 #working h2 a:hover {
     font-weight: 600;
-/*     color: #000; */
-    color: #004b79;
+    color: #000;
+/*     color: #004b79; */
     text-decoration: none;
 }
 
