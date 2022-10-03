@@ -310,6 +310,35 @@ p {
     text-decoration: underline;
 }
 
+#award {
+    margin: 2%;
+    padding-top: 20px;
+}
+
+#award h2 a {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+}
+
+#award h2 a:hover {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+}
+
+#award p a{
+    font-weight: 600;
+    text-decoration: none;
+    color: #0066cc;
+}
+
+#award p a:hover {
+    font-weight: 600;
+    color: #F90;
+    text-decoration: underline;
+}
+
 #working {
     margin: 2%;
     padding-top: 20px;
