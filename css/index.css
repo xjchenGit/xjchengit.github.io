@@ -2,10 +2,19 @@
 /* CSS Document */
 
 #container {
-    max-width: 1000px;  /* 或您希望的其他值 */
-    margin: 0 auto;    /* 將內容居中 */
-    padding: 0 20px;   /* 提供兩側的內間距，使內容不會貼近邊框 */
+    background-color: #FFF;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding: 0px 0px 30px 0px;
+    text-align: justify;  /* 確保所有文本兩端對齊 */
 }
+
+h1, h2, div {
+    text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
+}
+
 
 #header_navbar nav {
     font-weight: bold;
