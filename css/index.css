@@ -1,16 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-#container {
-    background-color: #FFF;
-    margin-left: 8%;
-    margin-right: 8%;
-    margin-top: 100px;
-    margin-bottom: 0px;
-    padding: 0px 0px 30px 0px;
-    text-align: justify;  /* 確保所有文本兩端對齊 */
-}
-
 h1, h2, div {
     text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
 }
@@ -105,8 +95,17 @@ p {
     hyphens: auto; /* 自動插入連字符 */
 }
 
-
 #container {
+    background-color: #FFF;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding: 0px 0px 30px 0px;
+    text-align: justify;  /* 確保所有文本兩端對齊 */
+}
+
+/* #container {
     background-color: #FFF;
     margin-left: 8%;
     margin-right: 8%;
@@ -114,7 +113,7 @@ p {
     margin-bottom: 0px;
     width: 84%;
     padding: 0px 0px 30px 0px;
-}
+} */
 
 #home #photo {
     float: left;
@@ -153,7 +152,6 @@ p {
     text-decoration: none;
     word-break: keep-all;
     word-wrap: break-word;
-/*     color: #0066cc; */
     color: #004b79;
 }
 
