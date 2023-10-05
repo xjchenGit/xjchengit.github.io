@@ -7,6 +7,11 @@
     padding: 0 20px;   /* 提供兩側的內間距，使內容不會貼近邊框 */
 }
 
+p {
+    text-align: justify;
+    hyphens: auto; /* 自動插入連字符 */
+}
+
 
 #header_navbar nav {
     font-weight: bold;
