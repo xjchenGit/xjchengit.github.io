@@ -125,6 +125,8 @@ p {
 #intro {
 	margin: 2%;
     padding-top: 20px;
+	float: left;
+    padding: 0px 0px 0px 15px;
 }
 
 #intro #name {
