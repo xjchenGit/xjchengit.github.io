@@ -4,9 +4,6 @@
 #intro, #award, #working, #publications {
 	box-sizing: border-box;
 	max-width: 95%;
-}
-
-#intro{
 	display: flex;
     align-items: flex-end;
 }
