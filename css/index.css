@@ -2,10 +2,14 @@
 /* CSS Document */
 
 #intro, #publications {
-    box-sizing: border-box;
+	box-sizing: border-box;
 	max-width: 75%;
 }
 
+#intro{
+	display: flex;
+    align-items: flex-end;
+}
 
 h1, h2, div {
     text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
@@ -96,7 +100,7 @@ body {
 }
 
 p {
-    padding-left: 20px;
+/*     padding-left: 20px; */
     text-align: justify;
     hyphens: auto; /* 自動插入連字符 */
 }
