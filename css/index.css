@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-#intro, #award, #publications {
+#intro, #award, #working, #publications {
 	box-sizing: border-box;
 	max-width: 75%;
 }
