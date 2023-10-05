@@ -1,6 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 
+#intro, #publications {
+    box-sizing: border-box;
+	max-width: 75%;
+}
+
+
 h1, h2, div {
     text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
 }
