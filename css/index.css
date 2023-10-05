@@ -101,6 +101,7 @@ p {
 }
 
 #container {
+	position: relative;
     background-color: #FFF;
     margin-left: 8%;
     margin-right: 8%;
