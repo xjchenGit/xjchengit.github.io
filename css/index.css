@@ -1,6 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
+#container {
+    max-width: 1200px;  /* 設置最大寬度，您可以根據需要調整 */
+    margin: 0 auto;    /* 這會將內容居中 */
+}
+
 
 #header_navbar nav {
     font-weight: bold;
