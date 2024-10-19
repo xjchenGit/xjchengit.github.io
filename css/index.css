@@ -6,6 +6,11 @@
 	max-width: 100%;
 }
 
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
 h1, h2, div {
     text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
 }
