@@ -1,11 +1,27 @@
 @charset "utf-8";
 /* CSS Document */
 
-#intro, #award, #working, #publications {
+/* #intro, #award, #working, #publications {
 	box-sizing: border-box;
-	/* max-width: 100%; */
-	width: 800px; /* 固定宽度 */
+	max-width: 100%;
+	/* width: 800px; /* 固定宽度 */ */
+} */
+
+/* 默认固定宽度（用于桌面设备） */
+#intro, #award, #working, #publications {
+    box-sizing: border-box;
+    width: 800px; /* 固定宽度 */
+    margin: 0 auto; /* 居中显示 */
 }
+
+/* 针对手机设备，设置宽度为100% */
+@media (max-width: 768px) {
+    #intro, #award, #working, #publications {
+        width: 100%; /* 移动设备全宽 */
+        padding: 0 10px; /* 可选的内边距用于留出边界空间 */
+    }
+}
+
 
 body {
     font-family: "Times New Roman", Times, serif;
