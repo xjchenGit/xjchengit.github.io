@@ -32,6 +32,10 @@ h1, h2, div {
     text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
 }
 
+#header_navbar {
+	width: 700px;
+}
+
 #header_navbar nav {
     font-weight: bold;
     background-color: #ffffff;
