@@ -10,10 +10,6 @@ h1, h2, div {
     text-align: justify;  /* 確保h1, h2和div也都是兩端對齊 */
 }
 
-h3 {
-	color: black;
-}
-
 #header_navbar nav {
     font-weight: bold;
     background-color: #ffffff;
@@ -232,14 +228,12 @@ p {
 }
 
 #publications h3 a {
-    font-weight: 600;
     color: #000;
     text-decoration: none;
     padding-left: 5pt;
 }
 
 #publications h3 a:hover {
-    font-weight: 600;
     color: #000;
     text-decoration: none;
     padding-left: 5pt;
@@ -371,14 +365,12 @@ p {
 }
 
 #award h3 a {
-    font-weight: 600;
     color: #000;
     text-decoration: none;
     padding-left: 5pt;
 }
 
 #award h3 a:hover {
-    font-weight: 600;
     color: #000;
     text-decoration: none;
     padding-left: 5pt;
@@ -416,14 +408,12 @@ p {
 }
 
 #working h3 a {
-    font-weight: 600;
     color: #000;
     text-decoration: none;
     padding-left: 5pt;
 }
 
 #working h3 a:hover {
-    font-weight: 600;
     color: #000;
     text-decoration: none;
     padding-left: 5pt;
