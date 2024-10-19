@@ -231,6 +231,20 @@ p {
     text-decoration: none;
 }
 
+#publications h3 a {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding-left: 5pt;
+}
+
+#publications h3 a:hover {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding-left: 5pt;
+}
+
 #publications h4 a {
     font-weight: 600;
     color: #000;
@@ -356,6 +370,20 @@ p {
     text-decoration: none;
 }
 
+#award h3 a {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding-left: 5pt;
+}
+
+#award h3 a:hover {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding-left: 5pt;
+}
+
 #award p a{
     font-weight: 600;
     text-decoration: none;
@@ -385,6 +413,20 @@ p {
     color: #000;
 /*     color: #004b79; */
     text-decoration: none;
+}
+
+#working h3 a {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding-left: 5pt;
+}
+
+#working h3 a:hover {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    padding-left: 5pt;
 }
 
 #working p a{
