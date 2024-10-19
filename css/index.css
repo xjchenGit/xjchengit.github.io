@@ -8,7 +8,7 @@
 } */
 
 /* 默认固定宽度（用于桌面设备） */
-#intro, #award, #working, #publications {
+#home, #intro, #award, #working, #publications {
     box-sizing: border-box;
     width: 700px; /* 固定宽度 */
     margin: 0 auto; /* 居中显示 */
@@ -16,7 +16,7 @@
 
 /* 针对手机设备，设置宽度为100% */
 @media (max-width: 768px) {
-    #intro, #award, #working, #publications {
+    #home, #intro, #award, #working, #publications {
         width: 100%; /* 移动设备全宽 */
 	/*  padding: 0 10px; /* 可选的内边距用于留出边界空间 */ */
     }
