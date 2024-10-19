@@ -3,7 +3,8 @@
 
 #intro, #award, #working, #publications {
 	box-sizing: border-box;
-	max-width: 100%;
+	/* max-width: 100%; */
+	width: 800px; /* 固定宽度 */
 }
 
 body {
