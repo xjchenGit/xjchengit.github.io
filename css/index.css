@@ -18,7 +18,7 @@
 @media (max-width: 768px) {
     #header_navbar, #home, #intro, #award, #working, #publications {
         width: 100%; /* 移动设备全宽 */
-	/*  padding: 0 10px; /* 可选的内边距用于留出边界空间 */ */
+	 padding: 0 5px; /* 可选的内边距用于留出边界空间 */
     }
 }
 
